@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\bin\Debug\net8.0-windows\Proyecto_Dos.exe
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\bin\Debug\net8.0-windows\Proyecto_Dos.deps.json
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\bin\Debug\net8.0-windows\Proyecto_Dos.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\bin\Debug\net8.0-windows\Proyecto_Dos.dll
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\bin\Debug\net8.0-windows\Proyecto_Dos.pdb
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\obj\Debug\net8.0-windows\Proyecto_Dos.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\obj\Debug\net8.0-windows\Proyecto_Dos.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\obj\Debug\net8.0-windows\Proyecto_Dos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\obj\Debug\net8.0-windows\Proyecto_Dos.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\obj\Debug\net8.0-windows\Proyecto_Dos.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\obj\Debug\net8.0-windows\Proyecto_Dos.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\obj\Debug\net8.0-windows\Proyecto_Dos.dll
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\obj\Debug\net8.0-windows\refint\Proyecto_Dos.dll
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\obj\Debug\net8.0-windows\Proyecto_Dos.pdb
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\obj\Debug\net8.0-windows\Proyecto_Dos.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_Dos\Proyecto_Dos\obj\Debug\net8.0-windows\ref\Proyecto_Dos.dll
