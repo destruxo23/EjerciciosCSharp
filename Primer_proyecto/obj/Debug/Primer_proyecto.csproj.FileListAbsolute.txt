@@ -1,0 +1,10 @@
+C:\Users\wtfde\source\repos\Primer_proyecto\bin\Debug\Primer_proyecto.exe.config
+C:\Users\wtfde\source\repos\Primer_proyecto\bin\Debug\Primer_proyecto.exe
+C:\Users\wtfde\source\repos\Primer_proyecto\bin\Debug\Primer_proyecto.pdb
+C:\Users\wtfde\source\repos\Primer_proyecto\obj\Debug\Primer_proyecto.csproj.AssemblyReference.cache
+C:\Users\wtfde\source\repos\Primer_proyecto\obj\Debug\Primer_proyecto.Form1.resources
+C:\Users\wtfde\source\repos\Primer_proyecto\obj\Debug\Primer_proyecto.Properties.Resources.resources
+C:\Users\wtfde\source\repos\Primer_proyecto\obj\Debug\Primer_proyecto.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Primer_proyecto\obj\Debug\Primer_proyecto.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Primer_proyecto\obj\Debug\Primer_proyecto.exe
+C:\Users\wtfde\source\repos\Primer_proyecto\obj\Debug\Primer_proyecto.pdb
