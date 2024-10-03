@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\obj\Debug\net8.0-windows\Proyecto_Cuatro.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\obj\Debug\net8.0-windows\Proyecto_Cuatro.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\obj\Debug\net8.0-windows\Proyecto_Cuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\obj\Debug\net8.0-windows\Proyecto_Cuatro.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\obj\Debug\net8.0-windows\Proyecto_Cuatro.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\obj\Debug\net8.0-windows\Proyecto_Cuatro.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\bin\Debug\net8.0-windows\Proyecto_Cuatro.exe
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\bin\Debug\net8.0-windows\Proyecto_Cuatro.deps.json
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\bin\Debug\net8.0-windows\Proyecto_Cuatro.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\bin\Debug\net8.0-windows\Proyecto_Cuatro.dll
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\bin\Debug\net8.0-windows\Proyecto_Cuatro.pdb
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\obj\Debug\net8.0-windows\Proyecto_Cuatro.dll
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\obj\Debug\net8.0-windows\refint\Proyecto_Cuatro.dll
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\obj\Debug\net8.0-windows\Proyecto_Cuatro.pdb
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\obj\Debug\net8.0-windows\Proyecto_Cuatro.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_Cuatro\Proyecto_Cuatro\obj\Debug\net8.0-windows\ref\Proyecto_Cuatro.dll
