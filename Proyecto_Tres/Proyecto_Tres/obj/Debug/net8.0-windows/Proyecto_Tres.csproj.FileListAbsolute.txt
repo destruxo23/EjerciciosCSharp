@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\bin\Debug\net8.0-windows\Proyecto_Tres.exe
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\bin\Debug\net8.0-windows\Proyecto_Tres.deps.json
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\bin\Debug\net8.0-windows\Proyecto_Tres.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\bin\Debug\net8.0-windows\Proyecto_Tres.dll
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\bin\Debug\net8.0-windows\Proyecto_Tres.pdb
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\obj\Debug\net8.0-windows\Proyecto_Tres.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\obj\Debug\net8.0-windows\Proyecto_Tres.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\obj\Debug\net8.0-windows\Proyecto_Tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\obj\Debug\net8.0-windows\Proyecto_Tres.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\obj\Debug\net8.0-windows\Proyecto_Tres.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\obj\Debug\net8.0-windows\Proyecto_Tres.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\obj\Debug\net8.0-windows\Proyecto_Tres.dll
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\obj\Debug\net8.0-windows\refint\Proyecto_Tres.dll
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\obj\Debug\net8.0-windows\Proyecto_Tres.pdb
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\obj\Debug\net8.0-windows\Proyecto_Tres.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_Tres\Proyecto_Tres\obj\Debug\net8.0-windows\ref\Proyecto_Tres.dll
