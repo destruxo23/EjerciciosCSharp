@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\bin\Debug\net8.0-windows\Proyecto_Seis.exe
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\bin\Debug\net8.0-windows\Proyecto_Seis.deps.json
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\bin\Debug\net8.0-windows\Proyecto_Seis.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\bin\Debug\net8.0-windows\Proyecto_Seis.dll
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\bin\Debug\net8.0-windows\Proyecto_Seis.pdb
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\obj\Debug\net8.0-windows\Proyecto_Seis.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\obj\Debug\net8.0-windows\Proyecto_Seis.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\obj\Debug\net8.0-windows\Proyecto_Seis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\obj\Debug\net8.0-windows\Proyecto_Seis.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\obj\Debug\net8.0-windows\Proyecto_Seis.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\obj\Debug\net8.0-windows\Proyecto_Seis.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\obj\Debug\net8.0-windows\Proyecto_Seis.dll
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\obj\Debug\net8.0-windows\refint\Proyecto_Seis.dll
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\obj\Debug\net8.0-windows\Proyecto_Seis.pdb
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\obj\Debug\net8.0-windows\Proyecto_Seis.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_Seis\Proyecto_Seis\obj\Debug\net8.0-windows\ref\Proyecto_Seis.dll
