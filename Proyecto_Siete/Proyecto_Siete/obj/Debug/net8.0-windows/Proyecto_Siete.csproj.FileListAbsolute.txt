@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\bin\Debug\net8.0-windows\Proyecto_Siete.exe
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\bin\Debug\net8.0-windows\Proyecto_Siete.deps.json
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\bin\Debug\net8.0-windows\Proyecto_Siete.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\bin\Debug\net8.0-windows\Proyecto_Siete.dll
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\bin\Debug\net8.0-windows\Proyecto_Siete.pdb
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\obj\Debug\net8.0-windows\Proyecto_Siete.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\obj\Debug\net8.0-windows\Proyecto_Siete.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\obj\Debug\net8.0-windows\Proyecto_Siete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\obj\Debug\net8.0-windows\Proyecto_Siete.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\obj\Debug\net8.0-windows\Proyecto_Siete.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\obj\Debug\net8.0-windows\Proyecto_Siete.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\obj\Debug\net8.0-windows\Proyecto_Siete.dll
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\obj\Debug\net8.0-windows\refint\Proyecto_Siete.dll
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\obj\Debug\net8.0-windows\Proyecto_Siete.pdb
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\obj\Debug\net8.0-windows\Proyecto_Siete.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_Siete\Proyecto_Siete\obj\Debug\net8.0-windows\ref\Proyecto_Siete.dll
