@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proyecto_Cinco/1.0.0": {
+        "runtime": {
+          "Proyecto_Cinco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto_Cinco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

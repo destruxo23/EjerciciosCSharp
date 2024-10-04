@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\bin\Debug\net8.0-windows\Proyecto_Cinco.exe
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\bin\Debug\net8.0-windows\Proyecto_Cinco.deps.json
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\bin\Debug\net8.0-windows\Proyecto_Cinco.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\bin\Debug\net8.0-windows\Proyecto_Cinco.dll
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\bin\Debug\net8.0-windows\Proyecto_Cinco.pdb
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\obj\Debug\net8.0-windows\Proyecto_Cinco.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\obj\Debug\net8.0-windows\Proyecto_Cinco.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\obj\Debug\net8.0-windows\Proyecto_Cinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\obj\Debug\net8.0-windows\Proyecto_Cinco.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\obj\Debug\net8.0-windows\Proyecto_Cinco.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\obj\Debug\net8.0-windows\Proyecto_Cinco.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\obj\Debug\net8.0-windows\Proyecto_Cinco.dll
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\obj\Debug\net8.0-windows\refint\Proyecto_Cinco.dll
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\obj\Debug\net8.0-windows\Proyecto_Cinco.pdb
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\obj\Debug\net8.0-windows\Proyecto_Cinco.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_Cinco\Proyecto_Cinco\obj\Debug\net8.0-windows\ref\Proyecto_Cinco.dll
