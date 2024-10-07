@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\bin\Debug\net8.0-windows\Proyecto_ocho.exe
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\bin\Debug\net8.0-windows\Proyecto_ocho.deps.json
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\bin\Debug\net8.0-windows\Proyecto_ocho.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\bin\Debug\net8.0-windows\Proyecto_ocho.dll
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\bin\Debug\net8.0-windows\Proyecto_ocho.pdb
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\obj\Debug\net8.0-windows\Proyecto_ocho.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\obj\Debug\net8.0-windows\Proyecto_ocho.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\obj\Debug\net8.0-windows\Proyecto_ocho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\obj\Debug\net8.0-windows\Proyecto_ocho.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\obj\Debug\net8.0-windows\Proyecto_ocho.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\obj\Debug\net8.0-windows\Proyecto_ocho.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\obj\Debug\net8.0-windows\Proyecto_ocho.dll
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\obj\Debug\net8.0-windows\refint\Proyecto_ocho.dll
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\obj\Debug\net8.0-windows\Proyecto_ocho.pdb
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\obj\Debug\net8.0-windows\Proyecto_ocho.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_ocho\Proyecto_ocho\obj\Debug\net8.0-windows\ref\Proyecto_ocho.dll
