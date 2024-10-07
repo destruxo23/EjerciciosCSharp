@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\bin\Debug\net8.0-windows\Proyecto_Nueve.exe
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\bin\Debug\net8.0-windows\Proyecto_Nueve.deps.json
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\bin\Debug\net8.0-windows\Proyecto_Nueve.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\bin\Debug\net8.0-windows\Proyecto_Nueve.dll
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\bin\Debug\net8.0-windows\Proyecto_Nueve.pdb
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\obj\Debug\net8.0-windows\Proyecto_Nueve.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\obj\Debug\net8.0-windows\Proyecto_Nueve.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\obj\Debug\net8.0-windows\Proyecto_Nueve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\obj\Debug\net8.0-windows\Proyecto_Nueve.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\obj\Debug\net8.0-windows\Proyecto_Nueve.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\obj\Debug\net8.0-windows\Proyecto_Nueve.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\obj\Debug\net8.0-windows\Proyecto_Nueve.dll
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\obj\Debug\net8.0-windows\refint\Proyecto_Nueve.dll
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\obj\Debug\net8.0-windows\Proyecto_Nueve.pdb
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\obj\Debug\net8.0-windows\Proyecto_Nueve.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_Nueve\Proyecto_Nueve\obj\Debug\net8.0-windows\ref\Proyecto_Nueve.dll
