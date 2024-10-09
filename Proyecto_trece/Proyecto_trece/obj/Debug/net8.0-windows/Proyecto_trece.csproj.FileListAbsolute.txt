@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\bin\Debug\net8.0-windows\Proyecto_trece.exe
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\bin\Debug\net8.0-windows\Proyecto_trece.deps.json
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\bin\Debug\net8.0-windows\Proyecto_trece.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\bin\Debug\net8.0-windows\Proyecto_trece.dll
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\bin\Debug\net8.0-windows\Proyecto_trece.pdb
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\obj\Debug\net8.0-windows\Proyecto_trece.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\obj\Debug\net8.0-windows\Proyecto_trece.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\obj\Debug\net8.0-windows\Proyecto_trece.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\obj\Debug\net8.0-windows\Proyecto_trece.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\obj\Debug\net8.0-windows\Proyecto_trece.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\obj\Debug\net8.0-windows\Proyecto_trece.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\obj\Debug\net8.0-windows\Proyecto_trece.dll
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\obj\Debug\net8.0-windows\refint\Proyecto_trece.dll
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\obj\Debug\net8.0-windows\Proyecto_trece.pdb
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\obj\Debug\net8.0-windows\Proyecto_trece.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_trece\Proyecto_trece\obj\Debug\net8.0-windows\ref\Proyecto_trece.dll
