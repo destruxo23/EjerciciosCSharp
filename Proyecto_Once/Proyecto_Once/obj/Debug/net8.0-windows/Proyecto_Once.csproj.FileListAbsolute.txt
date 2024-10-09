@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\bin\Debug\net8.0-windows\Proyecto_Once.exe
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\bin\Debug\net8.0-windows\Proyecto_Once.deps.json
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\bin\Debug\net8.0-windows\Proyecto_Once.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\bin\Debug\net8.0-windows\Proyecto_Once.dll
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\bin\Debug\net8.0-windows\Proyecto_Once.pdb
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\obj\Debug\net8.0-windows\Proyecto_Once.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\obj\Debug\net8.0-windows\Proyecto_Once.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\obj\Debug\net8.0-windows\Proyecto_Once.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\obj\Debug\net8.0-windows\Proyecto_Once.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\obj\Debug\net8.0-windows\Proyecto_Once.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\obj\Debug\net8.0-windows\Proyecto_Once.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\obj\Debug\net8.0-windows\Proyecto_Once.dll
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\obj\Debug\net8.0-windows\refint\Proyecto_Once.dll
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\obj\Debug\net8.0-windows\Proyecto_Once.pdb
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\obj\Debug\net8.0-windows\Proyecto_Once.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_Once\Proyecto_Once\obj\Debug\net8.0-windows\ref\Proyecto_Once.dll
