@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\bin\Debug\net8.0-windows\Proyecto_catorce.exe
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\bin\Debug\net8.0-windows\Proyecto_catorce.deps.json
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\bin\Debug\net8.0-windows\Proyecto_catorce.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\bin\Debug\net8.0-windows\Proyecto_catorce.dll
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\bin\Debug\net8.0-windows\Proyecto_catorce.pdb
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\obj\Debug\net8.0-windows\Proyecto_catorce.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\obj\Debug\net8.0-windows\Proyecto_catorce.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\obj\Debug\net8.0-windows\Proyecto_catorce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\obj\Debug\net8.0-windows\Proyecto_catorce.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\obj\Debug\net8.0-windows\Proyecto_catorce.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\obj\Debug\net8.0-windows\Proyecto_catorce.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\obj\Debug\net8.0-windows\Proyecto_catorce.dll
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\obj\Debug\net8.0-windows\refint\Proyecto_catorce.dll
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\obj\Debug\net8.0-windows\Proyecto_catorce.pdb
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\obj\Debug\net8.0-windows\Proyecto_catorce.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_catorce\Proyecto_catorce\obj\Debug\net8.0-windows\ref\Proyecto_catorce.dll
