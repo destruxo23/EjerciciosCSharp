@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\bin\Debug\net8.0-windows\Proyecto_quince.exe
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\bin\Debug\net8.0-windows\Proyecto_quince.deps.json
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\bin\Debug\net8.0-windows\Proyecto_quince.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\bin\Debug\net8.0-windows\Proyecto_quince.dll
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\bin\Debug\net8.0-windows\Proyecto_quince.pdb
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\obj\Debug\net8.0-windows\Proyecto_quince.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\obj\Debug\net8.0-windows\Proyecto_quince.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\obj\Debug\net8.0-windows\Proyecto_quince.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\obj\Debug\net8.0-windows\Proyecto_quince.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\obj\Debug\net8.0-windows\Proyecto_quince.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\obj\Debug\net8.0-windows\Proyecto_quince.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\obj\Debug\net8.0-windows\Proyecto_quince.dll
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\obj\Debug\net8.0-windows\refint\Proyecto_quince.dll
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\obj\Debug\net8.0-windows\Proyecto_quince.pdb
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\obj\Debug\net8.0-windows\Proyecto_quince.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_quince\Proyecto_quince\obj\Debug\net8.0-windows\ref\Proyecto_quince.dll
