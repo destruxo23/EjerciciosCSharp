@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\bin\Debug\net8.0-windows\Proyecto_dieciseis.exe
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\bin\Debug\net8.0-windows\Proyecto_dieciseis.deps.json
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\bin\Debug\net8.0-windows\Proyecto_dieciseis.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\bin\Debug\net8.0-windows\Proyecto_dieciseis.dll
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\bin\Debug\net8.0-windows\Proyecto_dieciseis.pdb
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\obj\Debug\net8.0-windows\Proyecto_dieciseis.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\obj\Debug\net8.0-windows\Proyecto_dieciseis.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\obj\Debug\net8.0-windows\Proyecto_dieciseis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\obj\Debug\net8.0-windows\Proyecto_dieciseis.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\obj\Debug\net8.0-windows\Proyecto_dieciseis.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\obj\Debug\net8.0-windows\Proyecto_dieciseis.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\obj\Debug\net8.0-windows\Proyecto_dieciseis.dll
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\obj\Debug\net8.0-windows\refint\Proyecto_dieciseis.dll
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\obj\Debug\net8.0-windows\Proyecto_dieciseis.pdb
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\obj\Debug\net8.0-windows\Proyecto_dieciseis.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_dieciseis\Proyecto_dieciseis\obj\Debug\net8.0-windows\ref\Proyecto_dieciseis.dll
