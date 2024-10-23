@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\bin\Debug\net8.0-windows\Proyecto_diecisiete.exe
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\bin\Debug\net8.0-windows\Proyecto_diecisiete.deps.json
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\bin\Debug\net8.0-windows\Proyecto_diecisiete.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\bin\Debug\net8.0-windows\Proyecto_diecisiete.dll
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\bin\Debug\net8.0-windows\Proyecto_diecisiete.pdb
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\obj\Debug\net8.0-windows\Proyecto_diecisiete.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\obj\Debug\net8.0-windows\Proyecto_diecisiete.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\obj\Debug\net8.0-windows\Proyecto_diecisiete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\obj\Debug\net8.0-windows\Proyecto_diecisiete.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\obj\Debug\net8.0-windows\Proyecto_diecisiete.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\obj\Debug\net8.0-windows\Proyecto_diecisiete.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\obj\Debug\net8.0-windows\Proyecto_diecisiete.dll
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\obj\Debug\net8.0-windows\refint\Proyecto_diecisiete.dll
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\obj\Debug\net8.0-windows\Proyecto_diecisiete.pdb
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\obj\Debug\net8.0-windows\Proyecto_diecisiete.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_diecisiete\Proyecto_diecisiete\obj\Debug\net8.0-windows\ref\Proyecto_diecisiete.dll
