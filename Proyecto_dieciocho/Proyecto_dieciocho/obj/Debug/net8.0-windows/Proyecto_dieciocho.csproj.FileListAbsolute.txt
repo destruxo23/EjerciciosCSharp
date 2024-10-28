@@ -1,0 +1,16 @@
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\bin\Debug\net8.0-windows\Proyecto_dieciocho.exe
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\bin\Debug\net8.0-windows\Proyecto_dieciocho.deps.json
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\bin\Debug\net8.0-windows\Proyecto_dieciocho.runtimeconfig.json
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\bin\Debug\net8.0-windows\Proyecto_dieciocho.dll
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\bin\Debug\net8.0-windows\Proyecto_dieciocho.pdb
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\obj\Debug\net8.0-windows\Proyecto_dieciocho.Form1.resources
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\obj\Debug\net8.0-windows\Proyecto_dieciocho.csproj.GenerateResource.cache
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\obj\Debug\net8.0-windows\Proyecto_dieciocho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\obj\Debug\net8.0-windows\Proyecto_dieciocho.AssemblyInfoInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\obj\Debug\net8.0-windows\Proyecto_dieciocho.AssemblyInfo.cs
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\obj\Debug\net8.0-windows\Proyecto_dieciocho.csproj.CoreCompileInputs.cache
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\obj\Debug\net8.0-windows\Proyecto_dieciocho.dll
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\obj\Debug\net8.0-windows\refint\Proyecto_dieciocho.dll
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\obj\Debug\net8.0-windows\Proyecto_dieciocho.pdb
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\obj\Debug\net8.0-windows\Proyecto_dieciocho.genruntimeconfig.cache
+C:\Users\wtfde\source\repos\Proyecto_dieciocho\Proyecto_dieciocho\obj\Debug\net8.0-windows\ref\Proyecto_dieciocho.dll
